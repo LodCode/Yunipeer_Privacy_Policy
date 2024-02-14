@@ -17,7 +17,7 @@ Uygulama içindeki Kullanıcılara ait bazı bilgiler saklanır;
 •	Ad ve soyad
 •	Öğrenci numarası
 •	Öğrenci maili
-•	ÖSYM fotoğrafı
+
 
 
 Lütfen unutmayın ki uygulamamız kullanıcıların peerpoint toplaması için QR kodlarını taraması gerekmektedir bu sebepten ötürü yunipeer kişisel kameranızı kullanmak için sizden izin isteyecektir fakat bu bağlamda kişisel kamera bilgileriniz toplanmamaktadır.
